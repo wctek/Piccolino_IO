@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Piccolino_IO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Piccolino_IO	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pinMode	KEYWORD2
+pinInvert	KEYWORD2
+digitalRead	KEYWORD2
+digitalWrite	KEYWORD2
+begin	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+INVERT	LITERAL1
+NORMAL	LITERAL1
