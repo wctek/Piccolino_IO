@@ -5,7 +5,7 @@ Individual set/reset up to 16 bits one at the time or 8 at the time (port-write)
 
 Commands:
 
-  begin(<address>)
+  begin()
   start the opject. Call it on its own or with an address (default addr is 0x20)
   
   void digitalWrite(uint8_t pin, char mode);
