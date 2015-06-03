@@ -88,7 +88,7 @@ void Piccolino_IO::digitalWrite(uint8_t pin, char data)
     io = _ioread(CMD_WR1);
   
 
-  if (data == LOW)
+  if (data == HIGH)
     io |= 1 << p; 
   else 
     io &= ~(1 << p);
