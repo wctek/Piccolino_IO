@@ -1,5 +1,5 @@
 # Piccolino_IO
-16 I/O port expander for Piccolino
+16 I/O port expander for [Piccolino](http://www.piccolino.rocks/)
 
 Individual set/reset up to 16 bits one at the time or 8 at the time (port-write). Use standard `digitalWrite` and `digitalRead` commands.
 

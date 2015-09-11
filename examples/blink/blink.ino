@@ -3,6 +3,7 @@
   Turns on an LED on for one second, then off for one second, repeatedly.
 
   This sketch was made to use with the 16 I/O port expander for Piccolino.
+  For details about the Piccolino, please visit http://www.piccolino.rocks/
 
   To blink a LED without 16 I/O port expander, just use the default 'Blink'
   example sketch provided by the Arduino IDE.

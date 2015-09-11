@@ -3,6 +3,7 @@
   Reads a digital input on a pin, prints the result to the serial monitor.
 
   This sketch was made to use with the 16 I/O port expander for Piccolino.
+  For details about the Piccolino, please visit http://www.piccolino.rocks/
 
   To read a digital input without 16 I/O port expander, just use the default
   'DigitalReadSerial' example sketch provided by the Arduino IDE.
